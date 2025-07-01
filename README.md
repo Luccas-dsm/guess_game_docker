@@ -52,7 +52,7 @@ A estrutura `backend/dockerfile` foi criada para:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/fams/guess_game.git
+   git clone https://github.com/Luccas-dsm/guess_game_docker.git
    cd guess_game
    ```
 
@@ -64,7 +64,7 @@ A estrutura `backend/dockerfile` foi criada para:
 
 3. Acesse a aplicação:
    ```
-   http://localhost:8080
+   http://localhost:8081
    ```
 
 ### Comandos úteis
