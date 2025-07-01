@@ -98,7 +98,7 @@ docker-compose up -d backend
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/fams/guess_game.git
+   git clone https://github.com/Luccas-dsm/guess_game_docker
    cd guess-game
    ```
 
@@ -187,7 +187,7 @@ No diretorio de frontend
 
 ### 1. Criar um novo jogo
 
-Acesse a url do frontend http://localhost:3000 (desenvolvimento) ou http://localhost:8080 (Docker)
+Acesse a url do frontend http://localhost:3000 (desenvolvimento) ou http://localhost:8081 (Docker)
 
 Digite uma frase secreta
 
@@ -197,7 +197,7 @@ Salve o game-id
 
 ### 2. Adivinhar a senha
 
-Acesse a url do frontend http://localhost:3000 (desenvolvimento) ou http://localhost:8080 (Docker)
+Acesse a url do frontend http://localhost:3000 (desenvolvimento) ou http://localhost:8081 (Docker)
 
 Vá para o endponint breaker
 
